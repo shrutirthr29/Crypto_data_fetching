@@ -1,0 +1,28 @@
+{
+  "name": "crypto_fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrutirthr29/Crypto_data_fetching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrutirthr29/Crypto_data_fetching/issues"
+  },
+  "homepage": "https://github.com/shrutirthr29/Crypto_data_fetching#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "node-cron": "^3.0.3"
+  }
+}
